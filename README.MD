@@ -11,7 +11,7 @@ STM32F411 that handles balancing and motor control.
 
 <!-- Put your photo at images/robot.jpg (create the folder in the repo root). -->
 <p align="center">
-  <img src="images/robot.jpg" alt="Ishara robot" width="480">
+  <img src="images/robot.jpeg" alt="Ishara robot" width="480">
 </p>
 
 ---
